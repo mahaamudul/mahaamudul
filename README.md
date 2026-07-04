@@ -1,31 +1,33 @@
-<!-- ========================================= -->
-<!--           GitHub Profile README           -->
-<!-- ========================================= -->
-
 <h1 align="center">Hi 👋, I'm Mahamudul Hassan Mehedi</h1>
 
-<h3 align="center">
-Full-Stack MERN Developer | Computer Science & Engineering Graduate
-</h3>
+<h3 align="center">Full-Stack MERN Developer | Computer Science & Engineering Graduate</h3>
 
 <p align="center">
-I'm passionate about building scalable web applications with the MERN stack,
-creating responsive user interfaces, and developing secure backend systems.
+I'm passionate about building scalable web applications with the MERN stack, engineering responsive user interfaces, and developing secure backend systems.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Computer+Science+Graduate;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
 <a href="https://github.com/mahaamudul">
-<img src="https://komarev.com/ghpvc/?username=mahaamudul&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=mahaamudul&label=Profile%20Views&color=0e75b6&style=flat" />
 </a>
 </p>
 
 ---
 
-# 🎓 Education
+## 👨‍💻 About Me
+
+- 🎓 B.Sc. in Computer Science & Engineering
+- 💻 Full-Stack MERN Developer
+- 🌱 Currently exploring modern web technologies and scalable software architecture
+- 📍 Rajshahi, Bangladesh
+
+---
+
+## 🎓 Education
 
 **B.Sc. in Computer Science & Engineering**
 
@@ -37,190 +39,108 @@ creating responsive user interfaces, and developing secure backend systems.
 
 ---
 
-# 🛠️ Skills
+## 🛠️ Skills
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,mysql" />
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=reactrouter&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=reactquery&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white)
 
 ### ⚙️ Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,npm" />
-</p>
-
----
-
-# 🚀 Projects
-
-## 🍽️ Forkly
-
-**Restaurant Management Platform**
-
-- Full-stack MERN application
-- JWT Authentication
-- Stripe Payment Integration
-- Admin Dashboard
-- Table Reservation System
-
-🔗 **Links**
-
-- 🌐 Live Demo: **YOUR_LIVE_LINK**
-- 💻 Client: **YOUR_CLIENT_REPO**
-- ⚙️ Server: **YOUR_SERVER_REPO**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
 
 ---
 
-## 🎵 Prime Music
+## 🚀 Projects
 
-**Music Streaming Application**
+### 🍽️ Forkly — Full-Stack Restaurant Management Ecosystem
 
-- Responsive UI
-- Audio Streaming
-- Playlist Management
-- Modern React Interface
+> React • Node.js • Express.js • MongoDB • Firebase • Stripe • JWT
 
-🔗 **Links**
+- End-to-end restaurant management platform
+- Admin dashboard with role-based access
+- Secure JWT authentication
+- Online payment integration
 
-- 🌐 Live Demo: **YOUR_LIVE_LINK**
-- 💻 Source Code: **YOUR_REPO**
+**🔗 Links**
 
----
-
-# 🎯 Activities
-
-## CSE Robotics Club
-
-**Technical Coordinator & Mentor**
-
-- Organized programming workshops
-- Mentored junior developers
-- Conducted Git & JavaScript sessions
+- 🌐 https://forkly-client.vercel.app/
+- 💻 Client: https://github.com/mahaamudul/forkly-client
+- ⚙️ Server: https://github.com/mahaamudul/forkly-server
 
 ---
 
-# 📊 GitHub Analytics
+### 🎵 Prime Music — Music Streaming Application
+
+> React • Tailwind CSS • Howler.js
+
+- Responsive music streaming interface
+- Playlist management
+- Interactive audio controls
+
+**🔗 Links**
+
+- 🌐 https://prime-music-v4lg.vercel.app/
+- 💻 https://github.com/mahaamudul/prime-music
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahaamudul&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaamudul&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahaamudul&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaamudul&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mahaamudul&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=mahaamudul&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📫 Connect With Me
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahaamudul)
 
-<img src="https://github-profile-trophy.vercel.app/?username=mahaamudul&theme=tokyonight&no-frame=true&row=1&column=7"/>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/mahaamudul)
 
-</p>
-
----
-
-# 📫 Connect with Me
-
-<p>
-
-<a href="https://linkedin.com/in/mahaamudul">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/mahaamudul">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:mahaamudul@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-> **Create `.github/workflows/snake.yml` first (see instructions below).**
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mahaamudul/mahaamudul/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-## ⚙️ Snake Animation Workflow
-
-Create:
-
-```text
-.github/workflows/snake.yml
-```
-
-Paste this:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: mahaamudul
-          outputs: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:mahaamudul@gmail.com)
 
 ---
 
 <p align="center">
-
-⭐ **Thanks for visiting my GitHub Profile!**
-
+⭐ Thanks for visiting my profile!
 </p>
